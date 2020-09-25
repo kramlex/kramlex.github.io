@@ -22,6 +22,7 @@ const SocialMediaDiv = styled.div`
   }
 `
 const CustomLink = styled.a`
+  
   margin: 15px;
   color: ${props => props.theme.text};
   :hover {
@@ -38,6 +39,9 @@ const CustomLink = styled.a`
   }
 `
 const CustomIcon = styled(FontAwesomeIcon)`
+//-webkit-box-shadow: 4px 4px 4px 0px rgba(14, 23, 36, 0.57);
+//    -moz-box-shadow:    4px 4px 4px 0px rgba(14, 23, 36, 0.57);
+//    box-shadow:         4px 4px 4px 0px rgba(14, 23, 36, 0.57);
   cursor:pointer;
   display:inline-block;
   font-size: 3rem;

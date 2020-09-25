@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import styled from 'styled-components';
 import {device} from '../theme';
 
@@ -63,6 +63,10 @@ export const Title = styled.h1`
     color: ${props => props.theme.text};
     border-bottom: ${props => props.main && `1px solid ${props.theme.text}40`};
     padding-bottom: ${props => props.main && '25px'};
+    //-webkit-box-shadow: 4px 4px 4px 0px rgba(14, 23, 36, 0.57);
+    //-moz-box-shadow:    4px 4px 4px 0px rgba(14, 23, 36, 0.57);
+    //box-shadow:         4px 4px 4px 0px rgba(14, 23, 36, 0.57);
+    text-shadow: 2px 2px 5px rgba(14, 23, 36, 0.4);
     @media ${device.tablet}{
         font-size: ${props => props.main ? 40 : 30}px;
         letter-spacing: 1.5px;

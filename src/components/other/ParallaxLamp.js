@@ -74,7 +74,7 @@ const ParallaxLamp = ({theme, size}) => {
                         layerStyle={{...LayerStyle, zIndex: '5'}}
                         config={{
                             xFactor: -0.01,
-                            yFactor: 0.01,
+                            yFactor: 0.03,
                             springSettings
                         }}
                     >
@@ -92,9 +92,9 @@ const ParallaxLamp = ({theme, size}) => {
 
                 {theme !== 'light' &&
                     <ParallaxMousemove.Layer layerStyle={{...LayerStyle}} config={{
-                        xFactor: -0.02,
-                        yFactor: 0.02,
-                        springSettings: springSettings
+                        xFactor: -0.0270,
+                        yFactor: 0.03,
+                        springSettings
                     }}>
                         <LayerImage className={'nonpevents'} size={size} src={lamp.text} alt="Parallax Layer"/>
                     </ParallaxMousemove.Layer>
