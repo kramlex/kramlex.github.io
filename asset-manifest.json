@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07c36aee.chunk.css",
+    "main.js": "/static/js/main.b83e7bab.chunk.js",
+    "main.js.map": "/static/js/main.b83e7bab.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b38b1d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b38b1d4.js.map",
+    "static/js/2.6f6fb4f0.chunk.js": "/static/js/2.6f6fb4f0.chunk.js",
+    "static/js/2.6f6fb4f0.chunk.js.map": "/static/js/2.6f6fb4f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ba76f28e7dbad97ce938c6fb272798d6.js": "/precache-manifest.ba76f28e7dbad97ce938c6fb272798d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.07c36aee.chunk.css.map": "/static/css/main.07c36aee.chunk.css.map",
+    "static/js/2.6f6fb4f0.chunk.js.LICENSE.txt": "/static/js/2.6f6fb4f0.chunk.js.LICENSE.txt",
+    "static/media/idea_off.png": "/static/media/idea_off.a38f2879.png",
+    "static/media/lamp_off.png": "/static/media/lamp_off.889a2499.png",
+    "static/media/lamp_on.png": "/static/media/lamp_on.26e103bd.png",
+    "static/media/light_line.png": "/static/media/light_line.1d33ebbd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b38b1d4.js",
+    "static/js/2.6f6fb4f0.chunk.js",
+    "static/css/main.07c36aee.chunk.css",
+    "static/js/main.b83e7bab.chunk.js"
+  ]
+}
