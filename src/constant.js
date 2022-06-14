@@ -2,9 +2,11 @@ import {faGithub, faGoogle, faInstagram, faTelegram} from '@fortawesome/free-bra
 
 export const titleTexts = [
     3500,
-    `I'm Junior frontend developer `, 1000, `I'm ` , 1000,
-    `I'm student at NSU 🤓`, 1000, `I'm `, 1000,
-    `I'm interested in UI/UX design`, 1000, `I `, 1000,
+    `I'm an middle iOS developer `, 1000, `I'm ` , 1000,
+    `I'm an Android developer `, 1000, `I'm ` , 1000,
+    `I'm an KMM developer `, 1000, `I ` , 1000,
+    `I work at IceRock`, 1000, `I ` , 1000,
+    `I'm student at NSU 🤓`, 1000, `I `, 1000,
     `I practice in machine learning` , 1000, `I `, 1000,
     `I live in Omsk`, 1000, `I live in Omsk Ooops 🤭`, 1500, `I live in Novosibirsk`, 1000,
     `I play sport mafia`, 1000, `I'm `, 1000,

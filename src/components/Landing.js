@@ -46,7 +46,7 @@ const Landing = ({theme}) => {
             </FadeDiv>
             <FadeDiv bottom duration={2500} distance={'40px'}>
                 <Title main theme={th} className={'nonselect'}>
-                    Hello, my name
+                    Hello, my name is
                     <Typical className={'title-name'}
                              steps={[2000, 'Mark Dubkov 💘']}
                              loop={1}
